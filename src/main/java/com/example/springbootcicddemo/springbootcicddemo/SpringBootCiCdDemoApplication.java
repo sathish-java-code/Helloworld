@@ -20,7 +20,7 @@ public class SpringBootCiCdDemoApplication {
 
     @GetMapping("/hi")
     public String hello() {
-        return "Spring boot CICD Demo Created Successfully...";
+        return "Spring boot CICD Demo Created Successfully !...";
     }
 
 }
